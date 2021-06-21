@@ -23,6 +23,7 @@ animation-iteration-count: infinite;
 Para criar uma animação:
 
 @keyframes nome-da-animação{
+
     from{
 
     }
