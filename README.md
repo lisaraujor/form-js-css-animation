@@ -1,4 +1,7 @@
 ## Formulário para cadastro com JS puro e CSS Animation
+![image](https://user-images.githubusercontent.com/73720786/161541803-99ff816e-4b64-4070-9f59-fbfd91fc8602.png)
+![image](https://user-images.githubusercontent.com/73720786/161541902-0e738486-243e-412b-a602-8eca483763c2.png)
+
 
 ## Desafios:
 - [X] Fazer o formulário aparecer, suavemente, quando a página abrir
